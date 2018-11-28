@@ -1,4 +1,4 @@
-
+import Guess_number
 a=input('Пожалуйста, введите число, которое хотите перевести:')
 
 def Number_translator(a):
